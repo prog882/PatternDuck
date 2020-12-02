@@ -1,0 +1,7 @@
+C:\Users\Alexey\source\repos\PatternDuck\bin\Debug\PatternDuck.exe.config
+C:\Users\Alexey\source\repos\PatternDuck\bin\Debug\PatternDuck.exe
+C:\Users\Alexey\source\repos\PatternDuck\bin\Debug\PatternDuck.pdb
+C:\Users\Alexey\source\repos\PatternDuck\obj\Debug\PatternDuck.csprojAssemblyReference.cache
+C:\Users\Alexey\source\repos\PatternDuck\obj\Debug\PatternDuck.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\PatternDuck\obj\Debug\PatternDuck.exe
+C:\Users\Alexey\source\repos\PatternDuck\obj\Debug\PatternDuck.pdb
