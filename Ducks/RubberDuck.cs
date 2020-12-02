@@ -10,7 +10,7 @@ namespace PatternDuck.Ducks
         {
             quackBehavior = new Squeak();
             flyBehavior = new FlyNoWay();
-            //swimBehavior = new SwimDuck();
+            swimBehavior = new SwimDuck();
         }
         public override object Display => "Я резиновая утка";
     }

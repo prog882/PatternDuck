@@ -13,6 +13,7 @@ namespace PatternDuck
             IronDuck ironDuck = new IronDuck();
 
             Duck[] duck = { mallardDuck, modelDuck, rubberDuck, ironDuck };
+            Console.WriteLine(" Start");
             foreach (Duck x in duck)
             {
                 Console.WriteLine("----------------------------------");
@@ -22,6 +23,7 @@ namespace PatternDuck
                 Console.WriteLine("3: " + x.PerformFly);
             }
             Console.WriteLine("----------------------------------");
+            Console.WriteLine(" Finish");
             Console.ReadKey();
         }
     }
